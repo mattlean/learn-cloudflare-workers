@@ -14,7 +14,7 @@
 	"compatibility_flags": ["nodejs_compat"],
 	"d1_databases": [
 		{
-			"binding": "d1_comments_api",
+			"binding": "DB",
 			"database_name": "d1-comments-api",
 			"database_id": "bd57627c-bc81-453e-871a-699e20264729",
 		},
